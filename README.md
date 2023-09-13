@@ -9,7 +9,7 @@
 
 # Dependencias
 
-![Npm package version](https://img.shields.io/badge/npm-v9.3.1-blue)
+![Npm package version](https://img.shields.io/badge/npm-v9.8.0-blue)
 
 -@apollo/client (integración GraphQL para el cliente)  
 -@expo/vector-icons (iconos)  
