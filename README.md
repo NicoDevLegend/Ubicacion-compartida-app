@@ -5,6 +5,8 @@
 
 # Ubicacion-compartida-app
 
+![ubicacion-compartida-app-icon](icon.png)
+
 -App de geolocalización de dispositivos Android creada con React Native, Expo , Apollo Client(GraphQL), y websocket para el uso de subcripciones.  
 
 PARA EL CORRECTO DESPLIEGUE EN DESARROLLO DE ESTA APLICACIÓN UTILIZA EL COMANDO "npx expo install [package-name]" PARA CREAR TU PROPIO PROYECTO, COPIA Y PEGA LOS ARCHIVOS EXCEPTUANDO "app.json", Y LUEGO EJECUTA EL COMANDO "npx expo start --tunnel".
@@ -33,7 +35,7 @@ PARA EL CORRECTO DESPLIEGUE EN DESARROLLO DE ESTA APLICACIÓN UTILIZA EL COMANDO
 ## Estado del proyecto 
 
 ![alpha](https://img.shields.io/badge/alpha-v1.0a-blue)  
-APK build: https://expo.dev/artifacts/eas/wDfZhw5JWY8pmwioCLABHK.apk
+APK build: https://expo.dev/artifacts/eas/gbz2TtMRCvUTfZ4J4dx8NA.apk
 
 ### NicoDev
 
